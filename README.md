@@ -1,4 +1,3 @@
-💫 About Me:
 👋 Hi, I'm Mohd Tausheef Siddiqui<br><br> **Bachelor of Pharmacy (B.Pharm) Undergraduate**<br> Passionate about **Pharmaceutical Research, Drug Development & Regulatory Affairs**<br> Interested in **AI in Pharma, Pharmaceutical Innovation & Life Sciences Technology**<br><br>---<br><br>
 About Me<br><br>I am a **results-driven Bachelor of Pharmacy student at Babu Banarasi Das Northern India Institute of Technology (AKTU), Lucknow**, with a strong academic foundation in pharmaceutical sciences and hands-on laboratory experience.<br><br>I am passionate about applying **pharmaceutical knowledge, regulatory science, and emerging technologies such as AI in Pharma** to drive innovation in healthcare and life sciences.<br><br>A **fast learner and collaborative team player**, I aim to contribute to high-quality pharmaceutical development and research within global healthcare and pharmaceutical organizations.<br><br>---<br><br> 
 
