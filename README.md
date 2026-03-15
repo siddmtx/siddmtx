@@ -1,16 +1,28 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi, I'm Mohd Tausheef Siddiqui<br><br> **Bachelor of Pharmacy (B.Pharm) Undergraduate**<br> Passionate about **Pharmaceutical Research, Drug Development & Regulatory Affairs**<br> Interested in **AI in Pharma, Pharmaceutical Innovation & Life Sciences Technology**<br><br>---<br><br>
+About Me<br><br>I am a **results-driven Bachelor of Pharmacy student at Babu Banarasi Das Northern India Institute of Technology (AKTU), Lucknow**, with a strong academic foundation in pharmaceutical sciences and hands-on laboratory experience.<br><br>I am passionate about applying **pharmaceutical knowledge, regulatory science, and emerging technologies such as AI in Pharma** to drive innovation in healthcare and life sciences.<br><br>A **fast learner and collaborative team player**, I aim to contribute to high-quality pharmaceutical development and research within global healthcare and pharmaceutical organizations.<br><br>---<br><br> 
 
-<!--
-**siddmtx/siddmtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media1.tenor.com/m/JkINIWacEr4AAAAC/meds-dr.gif"/>
 
-Here are some ideas to get you started:
+Education<br><br>**Bachelor of Pharmacy (B.Pharm)**<br>Babu Banarasi Das Northern India Institute of Technology, Lucknow<br>2022 – 2026 (Pursuing)<br><br>**Senior Secondary (CBSE)**<br>Central Academy, Indira Nagar, Lucknow<br>2021 – 2022<br><br>**Secondary School (CBSE)**<br>RBN Global School, Lucknow<br>2019 – 2020<br><br>---<br><br>  Academic Project<br><br>**Development and Characterization of Adaptogenic Polyherbal Gummies for Mild Psychological Stress Management**<br><br>Key Herbal Ingredients:<br><br> • Withania somnifera<br> • Ocimum sanctum <br><br>Project Focus:<br><br> • Herbal formulation development<br> • Stress management therapeutics<br> • Pharmaceutical characterization of dosage forms<br><br>---<br><br>  Practical & Laboratory Skills<br><br> Pre-formulation studies of Active Pharmaceutical Ingredients (API)<br> 
+Quality control testing of tablets and capsules:<br><br>  • Hardness test<br>  • Friability<br>  • Disintegration<br>  • Dissolution<br>  • Weight variation<br>
+Tablet formulation using:<br><br>  • Wet granulation method<br>  • Direct compression method<br>
+Operation of pharmaceutical equipment:<br><br>  • Tablet punching machine<br>  • Capsule filling machine<br>  • Disintegration apparatus<br>  • Dissolution apparatus<br>
+Analytical instrumentation:<br><br>  • UV–Visible Spectrophotometer<br>  • Colorimeter<br>  • Flame Photometer<br><br>---<br><br> 
+Industrial Training<br><br>**Industrial Training – Beauty Cave Cosmetics**<br>Ahmedabad, Gujarat<br><br>Exposure to:<br><br>• Cosmetic formulation processes<br>• Industrial production workflow<br>• Quality control practices<br><br>---<br><br>  Certifications<br><br>• AI in Pharma: Transforming Life Sciences Through Technology — LSSSDC<br>• Introduction to Good Manufacturing Practice (GMP) & Pharmacovigilance — Biopharma Institute<br>• Introduction to Pharmaceutical Regulatory Affairs — Pharma Lesson<br>• Good Regulatory Practices in Medical Product Regulation — WHO / CDSCO / BRIC / THSTI<br><br>---<br><br>  Achievements<br><br> **Academic Excellence Award (1st Year)**<br>BBDNIIT – Outstanding academic performance<br><br> **1st Position – ePoster Competition**<br>World Pharmacists Day (BBDNIIT)<br><br>---<br><br>  Core Skills<br><br>• Pharmaceutical Sciences<br>• Drug Formulation & Development<br>• Regulatory Affairs (WHO, ICH)<br>• Pharmaceutical Quality Control<br>• Laboratory Research & Documentation<br>• Technical Communication & Team Collaboration<br>• MS Office (Word, Excel, PowerPoint)<br><br>---<br><br> Currently Exploring<br><br>• AI Applications in Drug Development<br>• Pharmaceutical Product Development/ Quality Assurance/ Quality control<br>• Pharmaceutical Regulatory Science<br>• Advanced Drug Delivery Systems<br><br>---<br><br>  Career Vision<br><br>To contribute to **global pharmaceutical innovation** by working in research-driven environments where **science, technology, and healthcare intersect** to improve patient outcomes.<br><br>---<br><br>  Connect With Me<br><br> Lucknow, Uttar Pradesh, India<br> Email: mtsiddiqui009@gmail.com <br> LinkedIn: https://linkedin.com/in/mtsidd<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mtsidd/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Siddmtx) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MT SIDDIQUI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtsiddiqui009@gmail.com) 
+
+#  Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=siddmtx&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=siddmtx&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddmtx&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=siddmtx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
